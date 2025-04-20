@@ -1,5 +1,5 @@
 
-### <div><strong><center>Bem vindos ao meu humilde perfil :) </center></strong></div>
+### Bem vindos ao meu humilde perfil :)
 <pre>
   <span style="color:red">Gustavo present's:  Jaré  </span>
                                       ####        
