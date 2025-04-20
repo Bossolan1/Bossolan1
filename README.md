@@ -1,5 +1,5 @@
 
-### Bem vindos ao meu humilde perfil :)
+# Bem vindos ao meu humilde perfil :)
 <pre>
   <span style="color:red">Gustavo present's:  Jaré  </span>
                                       ####        
@@ -23,22 +23,22 @@
             ##############                        
                 ####
 </pre>
-## Quem sou eu ༼ つ ╹ ╹ ༽つ?
+### Quem sou eu ༼ つ ╹ ╹ ༽つ?
 --> Eu me chamo Gustavo, mas normamente me chamam de Bossolan, me chame como preferir, eu sou estudante de engenharia de computação e adoro criar projetos em C, aprender novas coisas no geral e desenhar jacarés em lugares aleatórios.
 
-## O que eu faço no meu tempo livre | (• ◡•)|? 
+### O que eu faço no meu tempo livre | (• ◡•)|? 
 --> Estudo coisas que vão agregar na minha vida, gosto de jogar mine ou osu, quando estou cansado gosto de ir pescar e tento dormir.
 
-## Onde você pode entrar em contato comigo?
+### Onde você pode entrar em contato comigo?
 --> No momento apenas via e-mail
 
-## Prioridades:
+### Prioridades:
 - Óleo de pínguim.
 - Comprar uma 5090.
 - Estudar.
 - Ter saúde.
 
-## Caso tenha gostado do meu perfil
+### Caso tenha gostado do meu perfil
 --> Considere me seguir s2.
 
 <!--
