@@ -1,4 +1,4 @@
-## bem vindos :)
+## bem vindos ao meu humilde perfil :)
 <pre>
                                       ####        
                                     ######        
@@ -21,6 +21,14 @@
             ##############                        
                 ####
 </pre>
+## Quem sou eu ༼ つ ╹ ╹ ༽つ?
+--> Eu me chamo Gustavo, mas normamente me chamam de Bossolan, me chame como preferir, eu sou estudante de engenharia de computação e adoro criar projetos em C, aprender novas coisas no geral e desenhar jacarés em lugares aleatórios.
+
+## O que eu faço no meu tempo livre | (• ◡•)|? 
+--> Estudo coisas que vão agregar na minha vida, gosto de jogar mine ou osu, quando estou cansado gosto de ir pescar e tento dormir.
+
+## Onde você pode entrar em contato comigo?
+--> No momento apenas via e-mail
 <!--
 **Bossolan1/Bossolan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
