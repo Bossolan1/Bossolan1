@@ -29,6 +29,14 @@
 
 ## Onde você pode entrar em contato comigo?
 --> No momento apenas via e-mail
+
+## Prioridades:
+--> Óleo de pínguim.
+--> Comprar uma 5090.
+--> Estudar.
+--> Ter saúde.
+
+
 <!--
 **Bossolan1/Bossolan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
