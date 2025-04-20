@@ -1,12 +1,5 @@
-    <style>
-      .centered-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-      }
-    </style>
-### <div  class="centered-container">Bem vindos ao meu humilde perfil :) </div>
+
+### <div><strong>Bem vindos ao meu humilde perfil :) </strong></div>
 <pre>
   <span style="color:red">Gustavo present's:  Jaré  </span>
                                       ####        
