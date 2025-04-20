@@ -36,6 +36,8 @@
 --> Estudar.
 --> Ter saúde.
 
+## Caso tenha gostado do meu perfil
+--> Considere me seguir s2.
 
 <!--
 **Bossolan1/Bossolan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
