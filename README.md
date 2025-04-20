@@ -1,6 +1,6 @@
 
 # Bem vindos ao meu humilde perfil :)
-<pre>
+<pre><center>
                                       ####        
                                     ######        
                                 ##########        
@@ -21,7 +21,7 @@
         ####################                      
             ##############                        
                 ####
-</pre>
+</pre></center>
 ### Quem sou eu ༼ つ ╹ ╹ ༽つ?
 --> Eu me chamo Gustavo, mas normamente me chamam de Bossolan, me chame como preferir, eu sou estudante de engenharia de computação e adoro criar projetos em C, aprender novas coisas no geral e desenhar jacarés em lugares aleatórios.
 
