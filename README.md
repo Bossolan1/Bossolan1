@@ -1,5 +1,5 @@
 ## bem vindos ao meu humilde perfil :)
-<pre>
+<pre style = "color: blue">
                                       ####        
                                     ######        
                                 ##########        
