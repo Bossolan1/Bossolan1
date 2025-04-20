@@ -1,4 +1,12 @@
-### <div>Bem vindos ao meu humilde perfil :) </div>
+    <style>
+      .centered-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+    </style>
+### <div  class="centered-container">Bem vindos ao meu humilde perfil :) </div>
 <pre>
   <span style="color:red">Gustavo present's:  Jaré  </span>
                                       ####        
