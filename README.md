@@ -33,10 +33,10 @@
 --> No momento apenas via e-mail
 
 ## Prioridades:
---> Óleo de pínguim.
---> Comprar uma 5090.
---> Estudar.
---> Ter saúde.
+- Óleo de pínguim.
+- Comprar uma 5090.
+- Estudar.
+- Ter saúde.
 
 ## Caso tenha gostado do meu perfil
 --> Considere me seguir s2.
