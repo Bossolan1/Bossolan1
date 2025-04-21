@@ -40,7 +40,8 @@
 ### Caso tenha gostado do meu perfil
 --> Considere me seguir s2.
 
-[![Watch the video](https://img.youtube.com/vi/6Y4b25CYkkg/maxresdefault.jpg)](https://youtu.be/6Y4b25CYkkg)
+https://github.com/user-attachments/assets/d0eca6d8-1e37-467e-8eed-d39f3a5ad859
+
 
 ### [Watch this video on YouTube](https://youtu.be/6Y4b25CYkkg)
 
